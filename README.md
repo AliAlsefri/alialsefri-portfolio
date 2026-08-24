@@ -28,7 +28,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=alialsefri&style=flat-square&color=14b8a6&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=AliAlsefri&style=flat-square&color=14b8a6&label=PROFILE+VIEWS" />
 
 <br><br>
 
@@ -56,10 +56,10 @@
 
 I'm **Ali N. Alsefri**, focused on building at the intersection of:
 
-**Artificial Intelligence**
-**Data Analytics**
-**Business Intelligence**
-**Automation**
+**Artificial Intelligence**  
+**Data Analytics**  
+**Business Intelligence**  
+**Automation**  
 **Intelligent Digital Products**
 
 I care about more than producing output.
@@ -337,8 +337,8 @@ Ask a question
 
 ```text
                               INTERNET
-                                  │
-                                  ▼
+                                 │
+                                 ▼
                     ┌────────────────────────┐
                     │                        │
                     │     ALIALSEFRI.COM     │
@@ -369,9 +369,9 @@ Ask a question
     └─────────────────────┘           └──────────┬──────────┘
                                                 │
                                                 ▼
-                                     ┌─────────────────────┐
-                                     │        GMAIL        │
-                                     └─────────────────────┘
+                                      ┌─────────────────────┐
+                                      │        GMAIL        │
+                                      └─────────────────────┘
 ```
 
 <div align="center">
@@ -449,33 +449,33 @@ Not a desktop layout squeezed into a phone.
                     USER
                       │
                       ▼
-             ┌────────────────┐
-             │  CONTACT FORM  │
-             └───────┬────────┘
-                     │
-                  HTTPS
+              ┌────────────────┐
+              │  CONTACT FORM  │
+              └───────┬────────┘
+                      │
+                    HTTPS
+                      │
+                      ▼
+        ┌──────────────────────────┐
+        │ contact.alialsefri.com   │
+        └────────────┬─────────────┘
                      │
                      ▼
-       ┌──────────────────────────┐
-       │ contact.alialsefri.com   │
-       └────────────┬─────────────┘
-                    │
-                    ▼
-       ┌──────────────────────────┐
-       │    CLOUDFLARE WORKER     │
-       │                          │
-       │  Validation              │
-       │  Origin Check            │
-       │  Request Processing      │
-       └────────────┬─────────────┘
-                    │
-                    ▼
-            ┌───────────────┐
-            │ EMAIL SERVICE │
-            └───────┬───────┘
-                    │
-                    ▼
-                 📬 Gmail
+        ┌──────────────────────────┐
+        │    CLOUDFLARE WORKER     │
+        │                          │
+        │  Validation              │
+        │  Origin Check            │
+        │  Request Processing      │
+        └────────────┬─────────────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │ EMAIL SERVICE │
+             └───────┬───────┘
+                     │
+                     ▼
+                   📬 Gmail
 ```
 
 ### Production considerations
@@ -507,6 +507,10 @@ alialsefri-portfolio/
 ├── 📁 assets/
 │   ├── 🖼️ images/
 │   └── ✦ icons/
+│
+├── 📁 .github/
+│   └── ⚙️ workflows/
+│       └── snake.yml
 │
 └── 📖 README.md
 ```
@@ -543,13 +547,13 @@ alialsefri-portfolio/
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=alialsefri&show_icons=true&hide_border=true&bg_color=020617&title_color=2DD4BF&icon_color=14B8A6&text_color=CBD5E1&ring_color=2DD4BF" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=AliAlsefri&show_icons=true&hide_border=true&bg_color=020617&title_color=2DD4BF&icon_color=14B8A6&text_color=CBD5E1&ring_color=2DD4BF" />
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alialsefri&layout=compact&hide_border=true&bg_color=020617&title_color=2DD4BF&text_color=CBD5E1" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAlsefri&layout=compact&hide_border=true&bg_color=020617&title_color=2DD4BF&text_color=CBD5E1" />
 
 <br><br>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=alialsefri&bg_color=020617&color=94A3B8&line=14B8A6&point=2DD4BF&area=true&hide_border=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AliAlsefri&bg_color=020617&color=94A3B8&line=14B8A6&point=2DD4BF&area=true&hide_border=true" />
 
 </div>
 
@@ -561,9 +565,19 @@ alialsefri-portfolio/
 
 ## 🐍 Code in Motion
 
-<img src="https://raw.githubusercontent.com/alialsefri/alialsefri/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
-
 <br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AliAlsefri/alialsefri-portfolio/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AliAlsefri/alialsefri-portfolio/output/github-contribution-grid-snake.svg">
+  <img
+    src="https://raw.githubusercontent.com/AliAlsefri/alialsefri-portfolio/output/github-contribution-grid-snake.svg"
+    width="100%"
+    alt="Ali Alsefri GitHub Contribution Snake"
+  >
+</picture>
+
+<br><br>
 
 ### `COMMIT → BUILD → LEARN → IMPROVE → REPEAT`
 
@@ -603,13 +617,13 @@ alialsefri-portfolio/
 <img src="https://img.shields.io/badge/PORTFOLIO-ALIALSEFRI.COM-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=020617" />
 </a>
 
- 
+&nbsp;
 
 <a href="https://www.linkedin.com/in/ali-alsefri/">
 <img src="https://img.shields.io/badge/LINKEDIN-ALI_ALSEFRI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617" />
 </a>
 
- 
+&nbsp;
 
 <a href="mailto:by3lin@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-BY3LIN%40GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617" />
@@ -632,5 +646,9 @@ alialsefri-portfolio/
 <br><br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=7&color=0:020617,45:14B8A6,55:2DD4BF,100:020617" width="100%" />
+
+<br>
+
+<sub>ENGINEERED WITH INTENT • BUILT FOR IMPACT</sub>
 
 </div>
